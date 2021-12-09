@@ -1,7 +1,7 @@
-# 機械学習
+# 機械学習（担当: 川嶋宏彰）
 
 - 兵庫県立大学 社会情報科学部 3回生前期
-- 担当: 川嶋 (kawashima + [at] + sis.u-hyogo.ac.jp)
+- 担当: 川嶋宏彰 (kawashima + [at] + sis.u-hyogo.ac.jp)
 
 ## 新着ニュース・お知らせ
 
